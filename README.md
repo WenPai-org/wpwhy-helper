@@ -1,2 +1,2 @@
-# wpgongyi-helper
-文派公益小助手（WPGongyi Helper），专为非盈利和 WordPress 公益网站必备组件，最简单的公益 404 页面让多一次展示就多一次希望。
+# wpwhy-helper
+文派小白（WPWhy.com）免费基础课程文档，专为非技术人员和小白用户创建的启动入门教学设计的培训资源，此为平台资源连接助手。
